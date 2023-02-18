@@ -1,2 +1,2 @@
 # Follow-The-Path
-Implemented followthe carrot algorithm
+Implemented follow the carrot algorithm
